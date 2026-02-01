@@ -22,8 +22,8 @@ IT professional transitioning into cybersecurity| Hands-on learner with 5+ hours
 - Certifications: Google Cybersecurity Certificate (ongoing)
 
 ## Let's Connect
-- X: [@Iwuoha_Daniel01](https://x.com/Iwuoha_Daniel01)  
-- LinkedIn: [Add your link]  
-- Email: [your.email@example.com]
+- X: [@Iwuoha_Daniel01][https://x.com/Iwuoha_Daniel01]
+- LinkedIn: [https://www.linkedin.com/in/Ugochukwu-Iwuoha]
+- Email: [iugoodaniel06@gmail.com]
 
 Thanks for visiting! Always open to feedback or collab on blue-team projects.
